@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta-furukawa)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @shunta-furukawa
-- 📫 twitter account is (shunta-furukawa)[https://twitter.com/shunta-furukawa]
+- 📫 twitter account is [shunta_furukawa](https://twitter.com/shunta_furukawa)
 
 <!---
 shunta-furukawa/shunta-furukawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
