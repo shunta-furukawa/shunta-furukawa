@@ -1,12 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunta-furukawa)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta-furukawa)](https://github.com/anuraghazra/github-readme-stats)
-
-- 👋 Hi, I’m @shunta-furukawa
-- 📫 twitter account is [shunta_furukawa](https://twitter.com/shunta_furukawa)
-
-<!---
-shunta-furukawa/shunta-furukawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta-furukawa&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shunta-furukawa)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=shunta-furukawa&color=blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&lines=Hi,+I'm+Shunta)
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,python,docker,kubernetes,gcp,aws)](https://skillicons.dev)
+![GitHub Contribution Snake](https://github.com/shunta-furukawa/shunta-furukawa/blob/output/github-contribution-grid-snake.svg)
