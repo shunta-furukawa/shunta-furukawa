@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=30&pause=1000&color=FE1E75&width=435&lines=%F0%9F%91%8B+Hi%2C+This+is+Shunta+Furukawa.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=900&size=30&repeat=false&pause=1000&color=FE1E75&width=435&lines=%F0%9F%91%8B+Hi%2C+This+is+Shunta+Furukawa.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shunta-furukawa&color=blue)
 
