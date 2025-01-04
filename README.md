@@ -18,4 +18,13 @@ Version Control: Git, GitHub
 
 ![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta-furukawa&show_icons=true&theme=radical)
 
+### About My Contribution Graph
+#### 🔒 Note
+
+I primarily use a different GitHub account for work, which is why the contribution graph for this account might look a bit sparse. Please bear with me!
+If you're curious about my work contributions, feel free to check out my work account here:
+[🌐 My Work Account](https://github.com/abema-shunta)
+
+Please note: Since this is a private work account, you might not be able to see much activity unless you have the appropriate access.
+
 ---
