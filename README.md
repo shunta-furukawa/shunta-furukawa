@@ -8,13 +8,20 @@ Hi, I’m Shunta. I’m a backend engineer and problem solver with a deep intere
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,ruby,js,python,rails,kubernetes,docker,gcp,aws,postgres,mysql,mongodb,git,github)](https://skillicons.dev)
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=go,ruby,js,python)](https://skillicons.dev)
 
-Languages: Go, Ruby, JavaScript, Python
-Frameworks: Ruby on Rails
-Infrastructure: Kubernetes, Docker, GCP, AWS
-Databases: PostgreSQL, MySQL, MongoDB
-Version Control: Git, GitHub
+**Frameworks**  
+[![Frameworks](https://skillicons.dev/icons?i=rails)](https://skillicons.dev)
+
+**Infrastructure**  
+[![Infrastructure](https://skillicons.dev/icons?i=kubernetes,docker,gcp,aws)](https://skillicons.dev)
+
+**Databases**  
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+**Version Control**  
+[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ![Shunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shunta-furukawa&show_icons=true&theme=radical)
 
