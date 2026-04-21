@@ -4,6 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shunta-furukawa&color=blue)
 
+[![Website](https://img.shields.io/badge/Website-shunta--furukawa.info-FE1E75?style=flat&logo=safari&logoColor=white)](https://shunta-furukawa.info)
+[![Zenn](https://img.shields.io/badge/Zenn-shunta__furukawa-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/shunta_furukawa)
+[![X](https://img.shields.io/badge/X-@shunta__furukawa-000000?style=flat&logo=x&logoColor=white)](https://x.com/shunta_furukawa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shunta--furukawa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shunta-furukawa)
+[![Facebook](https://img.shields.io/badge/Facebook-shunta.furukawa-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/shunta.furukawa)
+
 </div>
 
 ## About Me
