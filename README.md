@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FE1E75,100:7B2FF7&height=160&section=header)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=30&repeat=false&pause=1000&color=FE1E75&width=435&lines=%F0%9F%91%8B+Hi%2C+This+is+Shunta+Furukawa.)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=shunta-furukawa&color=FE1E75&style=flat)
 
 [![Website](https://img.shields.io/badge/Website-shunta--furukawa.info-FE1E75?style=flat&logo=safari&logoColor=white)](https://shunta-furukawa.info)
 [![Zenn](https://img.shields.io/badge/Zenn-shunta__furukawa-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/shunta_furukawa)
@@ -12,21 +12,23 @@
 
 </div>
 
-## About Me
+## About Me / 自己紹介
 
-Hi, I'm Shunta. Backend engineering is my core, but I work across the stack — from Go and Kubernetes on the server to frontend interfaces and visual design. I'm drawn to problems where engineering, product, and design overlap, and I care more about the *why* of a system than the *how*.
+🇬🇧 Hi, I'm Shunta. Backend engineering is my core, but I work across the stack — from Go and Kubernetes on the server to frontend interfaces and visual design. I'm drawn to problems where engineering, product, and design overlap, and I care more about the *why* of a system than the *how*.
 
-## Skills & Tools
+🇯🇵 ふるかわしゅんたです。軸はバックエンド（Go / Kubernetes など）ですが、フロントエンドやビジュアルデザインまで横断して手を動かすスタイルです。エンジニアリング・プロダクト・デザインが交差する領域に惹かれ、*どう動くか* よりも *なぜ必要か* を大切にしています。
+
+## Skills & Tools / スキル & ツール
 
 [![My Skills](https://skillicons.dev/icons?i=go,ruby,js,python,html,css,rails,kubernetes,docker,terraform,gcp,aws,postgres,mysql,mongodb,git,github)](https://skillicons.dev)
 
-- **Backend** — Go, Ruby (Rails), Python
-- **Frontend** — JavaScript, HTML, CSS
-- **Infrastructure** — Kubernetes, Docker, Terraform, GCP, AWS
-- **Data** — PostgreSQL, MySQL, MongoDB
-- **Design** — UI/UX & graphic design
+- **Backend / バックエンド** — Go, Ruby (Rails), Python
+- **Frontend / フロントエンド** — JavaScript, HTML, CSS
+- **Infrastructure / インフラ** — Kubernetes, Docker, Terraform, GCP, AWS
+- **Data / データ** — PostgreSQL, MySQL, MongoDB
+- **Design / デザイン** — UI/UX & graphic design
 
-## GitHub Stats
+## GitHub Stats / 統計
 
 <div align="center">
 
@@ -46,6 +48,32 @@ Hi, I'm Shunta. Backend engineering is my core, but I work across the stack — 
 
 </div>
 
+### Trophies / トロフィー
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shunta-furukawa&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=shunta-furukawa&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true">
+</picture>
+
+</div>
+
+### Activity / アクティビティ
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shunta-furukawa&theme=react-dark&area=true&hide_border=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shunta-furukawa&theme=github-light&area=true&hide_border=true" width="97%">
+</picture>
+
+</div>
+
 > 📊 **About the contribution graph** — I primarily use a different GitHub account for work, so activity here looks sparse. This account hosts side projects and experiments.
->
 > For my work footprint, see [🌐 @abema-shunta](https://github.com/abema-shunta). Most repos there are private, so visibility depends on your access.
+>
+> 📊 **コントリビューショングラフについて** — 仕事では別の GitHub アカウントを使っているため、こちらはアクティビティが少なく見えます。個人プロジェクトや実験用の場所です。
+> お仕事の痕跡は [🌐 @abema-shunta](https://github.com/abema-shunta) にあります。ほぼ private なので、アクセス権に応じて見える範囲が変わります。
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:FE1E75&height=120&section=footer)
