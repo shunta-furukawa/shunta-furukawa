@@ -48,17 +48,6 @@
 
 </div>
 
-### Trophies / トロフィー
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shunta-furukawa&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=shunta-furukawa&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true">
-</picture>
-
-</div>
-
 ### Activity / アクティビティ
 
 <div align="center">
